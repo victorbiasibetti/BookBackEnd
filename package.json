@@ -10,7 +10,7 @@
     "mongoose": "^5.8.9"
   },
   "scripts": {
-    "start": "node ./src/server.js"
+    "start": "node ./src/index.js"
   },
   "devDependencies": {
   }
