@@ -1,0 +1,17 @@
+{
+  "name": "apiakitienow",
+  "version": "1.0.0",
+  "description": "API para prova Akitie Now",
+  "main": "index.js",
+  "author": "Victor Biasibetti",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.8.9"
+  },
+  "scripts": {
+    "start": "node ./src/server.js"
+  },
+  "devDependencies": {
+  }
+}
